@@ -1,0 +1,61 @@
+/*abrir en doble pantalla: icono al lado de icono rueda ajustes, clicko y "division vertical" */
+h1 {
+    color: aliceblue;
+    background-color: darkblue;
+    text-align: center;
+    padding: 15px;
+    
+}
+h2{ font-family: arial, tahoma}
+
+#cuentame {
+     
+    text-decoration:underline;
+    text-decoration-color: deeppink;
+}
+.practicas {
+    font-style: italic;
+}
+
+table {
+    background-color: azure;
+    padding: 15px;
+    font-family: arial, tahoma;
+}
+
+p{
+    text-align: justify;
+}
+
+.info {
+    color: darkslategrey;
+    margin-top: 25px;
+    font-style: italic;
+    font-size: 12px;
+}
+
+img {
+    border: solid 3px darkblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
